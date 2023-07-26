@@ -14,18 +14,19 @@ theme:
     - content.code.copy
   language: en
   palette:
-  - scheme: default
+    - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: indigo
-      accent: indigo 
-  - scheme: slate 
+      primary: teal
+      accent: purple 
+    - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: indigo
-      accent: indigo  
+      primary: teal
+      accent: lime
+      
 plugins:
   - social
 
