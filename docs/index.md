@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+test addition
+
 ## Code Annotation Examples
 
 ### Codeblocks
